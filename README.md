@@ -1,6 +1,7 @@
-# Academic Performance Modeling
+# Academic Performance Modeling  |  Factors Influencing Student Mathematics Performance
 
-#Impact of Academic and Lifestyle Factors on Student Final Mathematics Grades
+Impact of Academic and Lifestyle Factors on Student Final Mathematics Grades
+
 **STAT 31631 - Statistical Modelling**  
 *Department of Statistics & Computer Science, University of Kelaniya*
 
